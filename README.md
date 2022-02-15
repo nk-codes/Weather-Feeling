@@ -13,8 +13,9 @@ This project is on Weather Information :-
 2) I have used  HTML, CSS, and JavaScript to do this project.
 3) And finally used Microsoft Azure's Web App to deploy my project.
 
+About App :- 
+This app will show the Weather report with attributes like wind speed, humidity,Temperature and description as well, along with appropriate background pictures related to the place.
 
-OpenWeather API used as well
 AZURE service used :- WEB APP 
 Explanation :- Azure Web Apps are Microsoft's offering to cloud to host web applications. It allows developers to focus on delivering business values rather than consuming time on Sever updates or OS patches. Interestingly, applications built on Java, PHP, Python or Node. js can also be deployed on web apps
 
