@@ -1,4 +1,4 @@
-# Simple Weather App Tutorial
+# Weather App 
 
 Simple weather app using HTML, CSS, and JavaScript
 Weather-App URL :- https://feelweather.azurewebsites.net/
