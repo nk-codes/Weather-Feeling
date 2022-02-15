@@ -3,9 +3,12 @@
 Simple weather app using HTML, CSS, and JavaScript
 Weather-App URL :- https://feelweather.azurewebsites.net/
 
+
 ![image](https://user-images.githubusercontent.com/89216667/154106293-d3022d81-ddeb-488d-8477-d907601a8ce9.png)
 
 
+
+Project Demo video is already in my git repo named as "Project-demo.mkv". Just open and download as raw. Thanks 📧
 
 
 This project is on Weather Information :-
@@ -17,9 +20,13 @@ About App :-
 This app will show the Weather report with attributes like wind speed, humidity,Temperature and description as well, along with appropriate background pictures related to the place.
 
 AZURE service used :- WEB APP 
+
+
 Explanation :- Azure Web Apps are Microsoft's offering to cloud to host web applications. It allows developers to focus on delivering business values rather than consuming time on Sever updates or OS patches. Interestingly, applications built on Java, PHP, Python or Node. js can also be deployed on web apps
 
 OpenWeather API used as well :-
+
+
 APIs are needed to bring applications together in order to perform a designed function built around sharing data and executing pre-defined processes. They work as the middle man, allowing developers to build new programmatic interactions between the various applications people and businesses use on a daily basis.
 
 I have done following  steps to finally deployed my project using Azure "Web App" :-
