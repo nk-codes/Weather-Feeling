@@ -5,6 +5,9 @@ Weather-App URL :- https://feelweather.azurewebsites.net/
 
 
 ![image](https://user-images.githubusercontent.com/89216667/154106293-d3022d81-ddeb-488d-8477-d907601a8ce9.png)
+![image](https://user-images.githubusercontent.com/89216667/154124306-c55e40d3-ce0d-4db5-a6b4-c3abdc2a39d6.png)
+
+![image](https://user-images.githubusercontent.com/89216667/154123042-9a211b5b-3381-48df-acf8-6a7d76495b57.png)
 
 
 
