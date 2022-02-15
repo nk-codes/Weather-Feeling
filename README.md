@@ -10,7 +10,7 @@ Weather-App URL :- https://feelweather.azurewebsites.net/
 
 This project is on Weather Information :-
 1) It collects data from open weather API which is free.
-2) I have used  HTML, CSS, and JavaScript to do this project.
+2) I have used  HTML, CSS, and JavaScript in vscode to do this project.
 3) And finally used Microsoft Azure's Web App to deploy my project.
 
 About App :- 
