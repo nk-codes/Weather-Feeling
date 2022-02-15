@@ -3,7 +3,8 @@
 Simple weather app using HTML, CSS, and JavaScript
 Weather-App URL :- https://feelweather.azurewebsites.net/
 
-![image](https://user-images.githubusercontent.com/89216667/154105738-21d1043d-6b59-420f-b009-c5ddafad7bcb.png)
+![image](https://user-images.githubusercontent.com/89216667/154106293-d3022d81-ddeb-488d-8477-d907601a8ce9.png)
+
 
 
 
