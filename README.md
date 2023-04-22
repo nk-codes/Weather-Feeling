@@ -1,7 +1,7 @@
 # Weather App
 
 Simple weather app using HTML, CSS, and JavaScript
-Weather-App URL :- https://feelweather.azurewebsites.net/
+Weather-App URL :- https://feelweathers.azurewebsites.net/
 
 
 ![image](https://user-images.githubusercontent.com/89216667/154106293-d3022d81-ddeb-488d-8477-d907601a8ce9.png)
